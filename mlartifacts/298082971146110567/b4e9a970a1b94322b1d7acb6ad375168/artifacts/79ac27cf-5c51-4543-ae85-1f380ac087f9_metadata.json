@@ -1,0 +1,26 @@
+{
+  "framework": "onnx",
+  "format": "onnx",
+  "file_size": 4363,
+  "ir_version": 13,
+  "producer_name": "",
+  "num_inputs": 1,
+  "num_outputs": 1,
+  "inputs": [
+    {
+      "name": "X",
+      "shape": [
+        0,
+        30
+      ]
+    }
+  ],
+  "outputs": [
+    {
+      "name": "label",
+      "shape": [
+        0
+      ]
+    }
+  ]
+}
