@@ -482,7 +482,7 @@ To add support for a new model format:
 
 ## License
 
-Proprietary - Takeda Pharmaceutical
+
 
 ## Support
 
